@@ -37,7 +37,7 @@ const Footer = () => {
           <PinterestIcon fontSize="large" />
         </a>
         <a
-          href="https://wa.me/916376778223"
+          href="https://wa.me/9060402361"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="WhatsApp"
@@ -51,7 +51,7 @@ const Footer = () => {
         <p>
           ~Made with ❤️ by {" "}
           <a
-            href="https://github.com/siddharthj14"
+            href="https://github.com/avi61702"
             target="_blank"
             rel="noopener noreferrer"
             title="Visit my GitHub"
@@ -61,7 +61,7 @@ const Footer = () => {
               fontWeight: "bold",
             }}
           >
-            Siddharth
+           Abhishek Kushwaha
           </a>
         </p>
       </div>
